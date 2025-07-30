@@ -1,10 +1,10 @@
 //your JS code here. If required.
 function functionName() {
-  alert(callee.name);
+  alert(functionName.name);
 }
 
 function AccioJob() {
-  alert(callee.name);
+  alert(AccioJob.name);
 }
 
 functionName();  // Alerts: "functionName"
